@@ -1,0 +1,17 @@
+{
+  "name": "importconfernece",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.1.0",
+    "any-date-parser": "^2.0.0",
+    "prisma": "^6.1.0"
+  }
+}
